@@ -13,140 +13,122 @@
                 We focus on molecules with superior ADME properties, proven clinical efficacy, 
                 and novel mechanisms of action.
            
-                   "Key Data":
-                -FDA-Approved Agets: 5
-                - Average Bioavailability: 84%
-                - Improvement Rate: 60%
-                - Monthly PPS Benefit: 12%
+           "Key Data":
+       -FDA-Approved Agets: 5
+      - Average Bioavailability: 84%
+      - Improvement Rate: 60%
+       - Monthly PPS Benefit: 12%
 
-   "Molecular Structures":
-   Interactive molecular structures of:
-   - Enzalutamide
-   - Darolutamide
-   - Abiraterone
-   - Olaparib
-    - 177-Lu-PSMA-617
-
+        "Molecular Structures":
+     Interactive molecular structures of:
+     - Enzalutamide
+     - Darolutamide
+     - Abiraterone
+     - Olaparib
+     - 177-Lu-PSMA-617
 Hovering over each structure reveals detailed chemical information.      
                     
-          -Two other leadinf prostate cacer drugs
+                             -Two other leadinf prostate cacer drugs
    Each structure includes detailed chemical information accessible via interactive visualization.
   
-
-                            
-              
-                - Enzalutamide -
-            
-                Enzalutamide (MDV3100)
-                
-                   ChEMBL ID: CHEMBL1261870
-                   Target: AR Antagonist (2nd Gen)
-                   Bioavailability: 84%
-                    Half-life: 5.8 days
-                    IC50: 36 nM (AR binding)
-                   Clinical Trial: AFFIRM (NEJM 2012)
+                    - Enzalutamide -
+    Enzalutamide (MDV3100)
+ChEMBL ID: CHEMBL1261870
+Target: AR Antagonist (2nd Gen)
+ Bioavailability: 84%
+ Half-life: 5.8 days
+ IC50: 36 nM (AR binding)
+Clinical Trial: AFFIRM (NEJM 2012)
                                               
-                    Lu-177-PSMA 
-                            
-                    Lu-177-PSMA-617
-                                    
-                   Type: Radioligand Therapy
-                   Target: PSMA (Prostate-Specific Membrane Antigen)
-                    Route: IV infusion
-                Half-life: 6.65 days (physical)
-                    Response Rate: 46% PSA reduction >50%
-                   Clinical Trial: VISION (NEJM 2021)
+                     - Lu-177-PSMA -
+       Lu-177-PSMA-617
+    Type: Radioligand Therapy
+   Target: PSMA (Prostate-Specific Membrane Antigen)
+    Route: IV infusion
+   Half-life: 6.65 days (physical)
+    Response Rate: 46% PSA reduction >50%
+    Clinical Trial: VISION (NEJM 2021)
               
-                                   
-                    - Olaparib -
-           
-               Olaparib (Lynparza)
-                                   ChEMBL ID: CHEMBL521686
-                  Target: PARP1/2 Inhibitor
-                   Indication:BRCA1/2 or ATM mutated mCRPC
-                    Bioavailability: 60%
-                 Half-life: 14.9 hours
-                    Clinical Trial: PROfound (NEJM 2020)
+                             - Olaparib -
+       Olaparib (Lynparza)
+    ChEMBL ID: CHEMBL521686
+    Target: PARP1/2 Inhibitor
+    Indication:BRCA1/2 or ATM mutated mCRPC
+    Bioavailability: 60%
+    Half-life: 14.9 hours
+    Clinical Trial: PROfound (NEJM 2020)
                 
-                   
-                       - Abiraterone -
-            
-                Abiraterone Acetate
+                           - Abiraterone -
+           Abiraterone Acetate
+   ChEMBL ID: CHEMBL1200920
+  Mechanism: Blocks androgen synthesis
+  Bioavailability: 5% (fasted)
+ Half-life: 12-16 hours
+ Co-administration:Requires prednisone
                 
-                   ChEMBL ID: CHEMBL1200920
-                    Mechanism: Blocks androgen synthesis
-                    Bioavailability: 5% (fasted)
-                    Half-life: 12-16 hours
-                   Co-administration:Requires prednisone
-                
-
-      - ADME Comparison -
-       
-          
-                             Absorption
-                   Best:Enzalutamide (84%)
-                 Food Effect: Darolutamide (2.25x ↑)
-                  IV Only: Lu-177-PSMA
+                          - ADME Comparison -
+     Absorption
+ Best:Enzalutamide (84%)
+ Food Effect: Darolutamide (2.25x ↑)
+ IV Only: Lu-177-PSMA
              
-                     Distribution
-                  Protein Binding:</strong> 82-99%
-                    BBB Penetration: Minimal (Darolutamide) ✓
-                 Vd Range: 110-19,669 L
+                            - Distribution-
+     Protein Binding:</strong> 82-99%
+     BBB Penetration: Minimal (Darolutamide) ✓
+    Vd Range: 110-19,669 L
                 
+                            -  Metabolism -
+    Primary: CYP3A4 (most)
+    Active Metabolites: Yes (Enzalutamide)
+    Low Interactions: Darolutamide ✓
                 
-                                   Metabolism
-                  Primary: CYP3A4 (most)
-                  Active Metabolites: Yes (Enzalutamide)
-                    Low Interactions: Darolutamide ✓
+                            - Excretion-
+     Renal: Lu-177 (67%)
+       Fecal: Abiraterone (88%)
+       Half-life: 5.8-20 hours
                 
-                     Excretion
-                  Renal: Lu-177 (67%)
-                    Fecal: Abiraterone (88%)
-                    Half-life: 5.8-20 hours
+                          - Comparison Table -
+      Drug
+     Mechanism
+    OS Benefit
+    PFS Benefit
+    Safety Profile
+   Cost/Month
                 
-        - Comparison Table -
-        
-                                   Drug
-                        Mechanism
-                        OS Benefit
-                        PFS Benefit
-                        Safety Profile
-                        Cost/Month
-                
-                        Darolutamide
-                        AR antagonist
-                        +18.4 months
-                        +22.0 months
-                        ⭐⭐⭐⭐⭐
-                        $11,000
+                          - Darolutamide-
+AR antagonist
+ +18.4 months
++22.0 months
+⭐⭐⭐⭐⭐
+ $11,000
                    
-                       Enzalutamide
-                        AR antagonist
-                        +4.8 months
-                        +8.3 months
-                        ⭐⭐⭐⭐
-                        $10,500
+                      - Enzalutamide-
+    AR antagonist
+   +4.8 months
+   +8.3 months
+   ⭐⭐⭐⭐
+    $10,500
                     
-                       Lu-177-PSMA
-                        Radioligand
-                        +4.0 months
-                        +5.3 months
-                        ⭐⭐⭐⭐
-                        $42,500/cycle
+                      - Lu-177-PSMA-
+       Radioligand
+       +4.0 months
+      +5.3 months
+         ⭐⭐⭐⭐
+       $42,500/cycle
                     
-                        Olaparib
-                        PARP inhibitor
-                        +3.5 months
-                        +3.8 months
-                        ⭐⭐⭐
-                        $15,000
+                       - Olaparib-
+         PARP inhibitor
+         +3.5 months
+          +3.8 months
+            ⭐⭐⭐
+             $15,000
                     
-                        Abiraterone
-                        CYP17 inhibitor
-                        +4.6 months
-                        +5.6 months
-                        ⭐⭐⭐
-                       $9,000
+                       - Abiraterone-
+             CYP17 inhibitor
+             +4.6 months
+             +5.6 months
+                ⭐⭐⭐
+                $9,000
                     
                
            Data Sources:
