@@ -1,0 +1,162 @@
+
+
+
+   
+    PharmaCancerRevolution | Prostate Cancer Therapeutics
+                     
+                
+            🎯" Mission Statement"
+           
+                Prostate cancer remains the second leading cause of cancer death in men. 
+                Our platform aggregates cutting-edge pharmacological data on the most promising 
+                therapeutic agents targeting castration-resistant prostate cancer (CRPC). 
+                We focus on molecules with superior ADME properties, proven clinical efficacy, 
+                and novel mechanisms of action.
+           
+                   "Key Data":
+                -FDA-Approved Agets: 5
+                - Average Bioavailability: 84%
+                - Improvement Rate: 60%
+                - Monthly PPS Benefit: 12%
+
+   "Molecular Structures":
+   Interactive molecular structures of:
+   - Enzalutamide
+   - Darolutamide
+   - Abiraterone
+   - Olaparib
+    - 177-Lu-PSMA-617
+
+Hovering over each structure reveals detailed chemical information.      
+                    
+          -Two other leadinf prostate cacer drugs
+   Each structure includes detailed chemical information accessible via interactive visualization.
+  
+
+                            
+              
+                - Enzalutamide -
+            
+                Enzalutamide (MDV3100)
+                
+                   ChEMBL ID: CHEMBL1261870
+                   Target: AR Antagonist (2nd Gen)
+                   Bioavailability: 84%
+                    Half-life: 5.8 days
+                    IC50: 36 nM (AR binding)
+                   Clinical Trial: AFFIRM (NEJM 2012)
+                                              
+                    Lu-177-PSMA 
+                            
+                    Lu-177-PSMA-617
+                                    
+                   Type: Radioligand Therapy
+                   Target: PSMA (Prostate-Specific Membrane Antigen)
+                    Route: IV infusion
+                Half-life: 6.65 days (physical)
+                    Response Rate: 46% PSA reduction >50%
+                   Clinical Trial: VISION (NEJM 2021)
+              
+                                   
+                    - Olaparib -
+           
+               Olaparib (Lynparza)
+                                   ChEMBL ID: CHEMBL521686
+                  Target: PARP1/2 Inhibitor
+                   Indication:BRCA1/2 or ATM mutated mCRPC
+                    Bioavailability: 60%
+                 Half-life: 14.9 hours
+                    Clinical Trial: PROfound (NEJM 2020)
+                
+                   
+                       - Abiraterone -
+            
+                Abiraterone Acetate
+                
+                   ChEMBL ID: CHEMBL1200920
+                    Mechanism: Blocks androgen synthesis
+                    Bioavailability: 5% (fasted)
+                    Half-life: 12-16 hours
+                   Co-administration:Requires prednisone
+                
+
+      - ADME Comparison -
+       
+          
+                             Absorption
+                   Best:Enzalutamide (84%)
+                 Food Effect: Darolutamide (2.25x ↑)
+                  IV Only: Lu-177-PSMA
+             
+                     Distribution
+                  Protein Binding:</strong> 82-99%
+                    BBB Penetration: Minimal (Darolutamide) ✓
+                 Vd Range: 110-19,669 L
+                
+                
+                                   Metabolism
+                  Primary: CYP3A4 (most)
+                  Active Metabolites: Yes (Enzalutamide)
+                    Low Interactions: Darolutamide ✓
+                
+                     Excretion
+                  Renal: Lu-177 (67%)
+                    Fecal: Abiraterone (88%)
+                    Half-life: 5.8-20 hours
+                
+        - Comparison Table -
+        
+                                   Drug
+                        Mechanism
+                        OS Benefit
+                        PFS Benefit
+                        Safety Profile
+                        Cost/Month
+                
+                        Darolutamide
+                        AR antagonist
+                        +18.4 months
+                        +22.0 months
+                        ⭐⭐⭐⭐⭐
+                        $11,000
+                   
+                       Enzalutamide
+                        AR antagonist
+                        +4.8 months
+                        +8.3 months
+                        ⭐⭐⭐⭐
+                        $10,500
+                    
+                       Lu-177-PSMA
+                        Radioligand
+                        +4.0 months
+                        +5.3 months
+                        ⭐⭐⭐⭐
+                        $42,500/cycle
+                    
+                        Olaparib
+                        PARP inhibitor
+                        +3.5 months
+                        +3.8 months
+                        ⭐⭐⭐
+                        $15,000
+                    
+                        Abiraterone
+                        CYP17 inhibitor
+                        +4.6 months
+                        +5.6 months
+                        ⭐⭐⭐
+                       $9,000
+                    
+               
+           Data Sources:
+                "https://www.ebi.ac.uk/chembl/"reference-link" 
+               "https://go.drugbank.com/"reference-link">DrugBank
+                "https://pubchem.ncbi.nlm.nih.gov/"reference-link">PubChem
+           
+           Clinical Trial Data:</strong> ClinicalTrials.gov | NEJM | Lancet Oncology
+            "margin-top: 15px; font-size: 0.9em
+                © 2024 PharmaCancerRevolution | For Educational and Research Purposes Only<br>
+                This platform does not provide medical advice. Consult healthcare professionals for treatment decisions.
+           
+       
